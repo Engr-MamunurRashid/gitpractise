@@ -1,0 +1,27 @@
+h1 {
+    color:black;
+}
+
+p {
+    color: blueviolet;
+}
+
+#paraNai {
+    color: beige;
+}
+
+.paraless {
+    color: blue;
+}
+
+#paraKhor {
+    background-color: brown;
+}
+
+.parakhai {
+    color: blanchedalmond;
+}
+
+body{
+    background-color:aqua;
+}
